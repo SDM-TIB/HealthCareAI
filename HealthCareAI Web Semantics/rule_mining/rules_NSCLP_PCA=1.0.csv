@@ -1,0 +1,3 @@
+Rule
+?a  hasCanceredFamily  Breast_Famale_2ndDegree  ?a  smoking  CurrentSmoker   => ?a  biomarker  PDL1
+?a  gender  Male  ?a  hasCanceredFamily  Other_Male_1stDegree   => ?a  biomarker  PDL1
